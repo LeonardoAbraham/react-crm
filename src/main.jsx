@@ -31,3 +31,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <RouterProvider router={router}/>
     </React.StrictMode>,
 )
+
+//Comando para correr server fake simulador de un REST API
+//> json-server --watch db.json
