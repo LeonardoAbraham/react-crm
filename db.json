@@ -1,11 +1,12 @@
 {
   "clientes": [
     {
-      "id": 1,
-      "nombre": "Leonardo",
-      "telefono": 102013313,
+      "nombre": "Leonardo update",
+      "empresa": "Xenon Indrustrial",
       "email": "leonardo@leonardo.com",
-      "empresa": "Xenon Indrustrial"
+      "telefono": "102013313",
+      "notas": "notas del cliente",
+      "id": 1
     },
     {
       "id": 2,
