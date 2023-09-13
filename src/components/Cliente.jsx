@@ -27,7 +27,7 @@ const Cliente = ({cliente}) => {
                     type="button"
                     className="text-red-600 hover:text-red-700 uppercase font-bold text-xs"
                 >
-                    Editar
+                    Eliminar
                 </button>
             </td>
         </tr>
