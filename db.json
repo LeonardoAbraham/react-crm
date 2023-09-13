@@ -30,13 +30,6 @@
       "empresa": "Xenon Indrustrial"
     },
     {
-      "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
-      "email": "pedro@leonardo.com",
-      "empresa": "Xenon Indrustrial"
-    },
-    {
       "nombre": "Leonardo",
       "empresa": "Xenon",
       "email": "leonardo@gmail.com",
